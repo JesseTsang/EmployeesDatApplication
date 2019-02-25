@@ -1,8 +1,14 @@
-### EReport Application
+# EReport Application
 
-## This program will read a employees.dat file and sort the contents by
-## employees ID and by employees' family name.
+This program will read a employees.dat file and sort the contents by employees ID and by employees' family name.
 
-## To run: Open a command windows at the folder, then run EmployeesDatApplication.exe
+## Getting Started
 
-## Source code: Source code is located in the src folder.
+Run EmployeesDatApplication.exe
+
+## Prerequisites
+
+Require an employees.dat file that contains employee ID, employee name value pairs, separated by a comma. A sample is already in the foler.
+
+## Source code
+Source code is provided in the src folder.
