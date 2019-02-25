@@ -1,0 +1,5 @@
+C:\Users\Jesse\RiderProjects\EmployeesDatApplication\EmployeesDatApplication\bin\Debug\EmployeesDatApplication.exe
+C:\Users\Jesse\RiderProjects\EmployeesDatApplication\EmployeesDatApplication\bin\Debug\EmployeesDatApplication.pdb
+C:\Users\Jesse\RiderProjects\EmployeesDatApplication\EmployeesDatApplication\obj\Debug\EmployeesDatApplication.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\RiderProjects\EmployeesDatApplication\EmployeesDatApplication\obj\Debug\EmployeesDatApplication.exe
+C:\Users\Jesse\RiderProjects\EmployeesDatApplication\EmployeesDatApplication\obj\Debug\EmployeesDatApplication.pdb
